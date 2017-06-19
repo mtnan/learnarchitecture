@@ -17,6 +17,7 @@
         <module>ssm</module>
         <module>disruptor</module>
         <module>hbase</module>
+        <module>netty</module>
     </modules>
 
     <dependencies>
